@@ -1,4 +1,4 @@
-# ubuntu-xfce-selenium-firefox (Docker container)
+# ubuntu-xfce-x2go (Docker container)
 
 Docker container ubuntu  with x2go and xfce 
 
